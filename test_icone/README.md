@@ -1,4 +1,4 @@
-Ho provato a fare qualche icona per l'app.
+Ho provato a fare qualche icona per l'app. <br>
 l'idea è quella di inserire un'immagine nell'icona che faccia intuire da subito l'utilità dell'app
 
 
